@@ -1,0 +1,32 @@
+/* 全局字体大小调整 */
+body {
+  font-size: 18px; /* 默认字体大小 */
+}
+
+/* 文章标题字体大小 */
+article h1 {
+  font-size: 24px;
+}
+
+article h2 {
+  font-size: 22px;
+}
+
+article h3 {
+  font-size: 20px;
+}
+
+/* 文章内容字体大小 */
+article .post-content {
+  font-size: 18px;
+}
+
+/* 侧边栏字体大小 */
+#sidebar {
+  font-size: 15px;
+}
+
+/* 评论区字体大小 */
+#comment {
+  font-size: 16px;
+}
